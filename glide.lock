@@ -1,6 +1,13 @@
-hash: 85c1f0ce664e91f38604f4653e09db463cfdb35ac09331967dc013bcf6efb601
-updated: 2018-02-03T21:00:58.279232+08:00
+hash: 08037d7d55cf75219872dce5394b263dd1026d58f43c807c59789a21cb6c5769
+updated: 2018-02-05T13:30:06.888034+08:00
 imports:
 - name: github.com/Masterminds/cookoo
   version: 78aa11ce75e257c51be7ea945edb84cf19c4a6de
+  subpackages:
+  - io
+- name: github.com/rongfengliang/golearning
+  version: 8102e5f5b0c38a6c6c2672c5b5c5a696e434a61a
+  subpackages:
+  - netdemo
+  - server
 testImports: []

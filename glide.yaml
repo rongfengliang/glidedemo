@@ -1,4 +1,6 @@
-package: .
+package: github.com/rongfengliang/glidedemo
 import:
 - package: github.com/Masterminds/cookoo
-  version: ^1.3.0
+- package: github.com/rongfengliang/golearning
+  subpackages:
+  - server
