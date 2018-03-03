@@ -4,3 +4,6 @@ import:
 - package: github.com/rongfengliang/golearning
   subpackages:
   - server
+- package: google.golang.org/grpc
+  version: ^1.10.0
+  repo: https://github.com/grpc/grpc-go.git
